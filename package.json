@@ -1,0 +1,24 @@
+{
+  "name": "@kry/snilsutils",
+  "version": "1.0.0",
+  "description": "Validator and parser for person snils number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopRuiner/snilsUtils.git"
+  },
+  "keywords": [
+    "SNILS",
+    "validator",
+    "parcer"
+  ],
+  "author": "Krylov Egor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopRuiner/snilsUtils/issues"
+  },
+  "homepage": "https://github.com/TopRuiner/snilsUtils#readme"
+}
