@@ -1,5 +1,5 @@
 {
-  "name": "@kry/snilsutils",
+  "name": "snilsutils",
   "version": "1.0.0",
   "description": "Validator and parser for person snils number",
   "main": "index.js",

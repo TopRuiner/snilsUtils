@@ -7,7 +7,7 @@
     1-st format: 123-123-123 12
     2-nd format: 12312312312
 # Installation
- `npm install @kry/snilsutils.`
+ `npm install snilsutils.`
  Then import it in your js file and use.
 # Usage
 ```js
