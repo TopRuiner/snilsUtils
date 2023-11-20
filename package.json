@@ -1,6 +1,6 @@
 {
   "name": "snilsutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validator and parser for person snils number",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "parcer"
   ],
   "author": "Krylov Egor",
-  "license": "ISC",
+  "license": "OpenBSD",
   "bugs": {
     "url": "https://github.com/TopRuiner/snilsUtils/issues"
   },
